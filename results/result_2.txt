@@ -1,0 +1,10 @@
+A Terms & Conditions Document
+This document is made of plain text.
+It includes The quick brown fox.
+It includes jumps over the lazy dog.
+It includes And dies.
+It includes The white horse is white.
+It includes The quick brown fox;jumps over the lazy dog.
+It includes Napoleon's white horse;The white horse is white;And dies.
+Your legal terms.
+
