@@ -1,0 +1,12 @@
+clauses: [
+  { "id": 1, "text": "The quick brown fox" },
+  { "id": 2, "text": "jumps over the lazy dog" },
+  { "id": 3, "text": "And dies" },
+  { "id": 4, "text": "The white horse is white" },
+  { "id": 5, "text": "Napoleon's white horse" }
+]
+sections: [
+  { "id": 1, "clauses_ids": [1, 2] },
+  { "id": 2, "clauses_ids": [5, 4, 3] }
+]
+
