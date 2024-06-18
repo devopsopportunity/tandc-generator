@@ -1,0 +1,10 @@
+A Terms & Conditions Document
+This document is made of plain text.
+It includes [CLAUSE-1].
+It includes [CLAUSE-2].
+It includes [CLAUSE-3].
+It includes [CLAUSE-4].
+It includes [SECTION-1].
+It includes [SECTION-2].
+Your legal terms.
+
